@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "even-research-119705",
+    "project_number": "19006500635",
+    "name": "My Project"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19006500635:android:d874bdb0f6f27b82",
+        "client_id": "android:com.google.mymap",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.google.mymap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19006500635-rhs7hl7hoph1jbsd704m1bfo1dgt0tq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.mymap",
+            "certificate_hash": "6093D4D0A43195925D11A9E18817C812BA3AD7A1"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
